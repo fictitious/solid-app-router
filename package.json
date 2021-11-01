@@ -17,6 +17,7 @@
   "types": "dist/index.d.ts",
   "exports": {
     ".": {
+      "solid-sources": "./src/index.tsx",
       "solid": "./dist/index.jsx",
       "default": "./dist/index.js"
     }
